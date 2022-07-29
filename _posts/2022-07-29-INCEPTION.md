@@ -1,6 +1,6 @@
 ## INCEPTION trial
 
-I spotted something about this trial on Twitter and I followed it up because I’ve been involved in trials in this area (out-of-hospital cardiac arrest; the PARAMEDIC and PARAMEDIC2 trials).  It raises a few interesting design issues that are more widely relevant than just to cardiac arrest trials, so that’s why I’m writing about it now. The design and rationale paper is here.
+I spotted something about this trial on Twitter and I followed it up because I’ve been involved in trials in this area (out-of-hospital cardiac arrest; the PARAMEDIC and PARAMEDIC2 trials).  It raises a few interesting design issues that are more widely relevant than just to cardiac arrest trials, so that’s why I’m writing about it now. The design and rationale paper is [here](https://www.sciencedirect.com/science/article/pii/S0002870318303491).
 
 INCEPTION is a trial comparing treatments for out-of-hospital cardiac arrest patients when they reach the emergency department.  Patients are eligible if they are in cardiac arrest, shocked and with no return of spontaneous circulation after 15 minutes.  At the emergency department they are randomised either to receive standard care, which is continuation of CPR, or extracorporeal CPR (ECPR), which I think involves connecting the patient to a portable heart-lung support system, while chest compressions are continued.
 
@@ -10,11 +10,11 @@ And it has a sample size calculation! Of course, because everything has to.  Th
 
 The trial’s stated aims are:
 
-“This trial aims to determine whether ECPR should be considered as a standard of care in patients with refractory OHCA.”
+>“This trial aims to determine whether ECPR should be considered as a standard of care in patients with refractory OHCA.”
 
 and
 
-“…to determine the effect of ECPR on survival rate and neurological outcome, and to evaluate its feasibility and cost-effectiveness.”
+>“…to determine the effect of ECPR on survival rate and neurological outcome, and to evaluate its feasibility and cost-effectiveness.”
 
 I just don’t see that it’s going to be able to do that.
 
@@ -24,7 +24,7 @@ What I’m objecting to is the spurious sample size calculation based on a treat
 
 And there’s more.  The trial also includes an adaptive element.  Here’s the description from the paper:
 
-An interim analysis will be performed after the CPC score has been established for the 40th patient at 30 days after the OHCA. In this interim analysis, the percentage of survival with good neurological outcome will be calculated for both treatment groups. […] These percentages will be used to estimate the chance of a type II error. In case of an imminent type II error, a new sample size calculation will be performed which may result in an advice to increase the sample size.
+>An interim analysis will be performed after the CPC score has been established for the 40th patient at 30 days after the OHCA. In this interim analysis, the percentage of survival with good neurological outcome will be calculated for both treatment groups. […] These percentages will be used to estimate the chance of a type II error. In case of an imminent type II error, a new sample size calculation will be performed which may result in an advice to increase the sample size.
 
 There’s not too much information there about how this is going to be done, but one thing that they probably need to know is that you can’t actually estimate the chance of a Type II error from the results.  And "an imminent Type II error"?  With data for 40 out of 110 patients?  How's that going to work?  I should say that I haven't read the study protocol, so I'm not sure if something has been mangled in the transition from protocol to paper here.
 
