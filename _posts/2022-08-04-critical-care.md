@@ -6,15 +6,15 @@ First, the title.  We should really stop talking about "negative" trials.  For
 
 So, on to what I actually wanted to say.  The second paragraph of the paper begins:
 
-On a statistical basis, it is unlikely that most negative RCTs represent fair conclusions...
+>On a statistical basis, it is unlikely that most negative RCTs represent fair conclusions...
 
 That's a surprising statement. They go on to give their basis for saying it:
 
-... if each hypothesis tested had the same a priori probability that was as low as a coin toss, we would expect 50% of RCTs to be positive. The likelihood that 19 out of 20 consecutive such coin tosses would be negative is less than 1 in half a million (1 ÷ 219 ).
+>... if each hypothesis tested had the same a priori probability that was as low as a coin toss, we would expect 50% of RCTs to be positive. The likelihood that 19 out of 20 consecutive such coin tosses would be negative is less than 1 in half a million (1 ÷ 219 ).
 
 They then argue that the proportion of correct hypotheses that are tested should be higher than 50%:
 
-In fact, most a priori hypotheses should have substantially better than even odds of success, as it seems implausible that a hypothesis refined through extensive testing should have only the same chance of being effective as a coin toss.
+>In fact, most a priori hypotheses should have substantially better than even odds of success, as it seems implausible that a hypothesis refined through extensive testing should have only the same chance of being effective as a coin toss.
 
 Starting from the beginning of this, the statement that if 50% of hypotheses tested are true, then 50% of RCTs should be positive is just wrong.  We definitely wouldn't expect to see that.  The important thing they are ignoring is the error rates in statistical testing.  Typically, studies are designed around a null hypothesis significance test with something like Type I error rate of 5%, and (hoped-for) Type II error rate of 20%.  That means when the null hypothesis is true (i.e. exactly zero difference in reality between the treatment arms), we expect 5% of a long run of replications to yield a significant result.  So you'll get 5% positive regardless of the proportion of hypotheses that are actually true.  Of the hypotheses that are tested that are actually true, you'll get a significant result in a proportion equal to the power of the test.  So that's always going to be less than 100%, and sometimes a lot less.  And remember, this is about the power of the test with the treatment effect that actually exists, not the one that was assumed in the sample size calculation.  We know that lots of trials overestimate the treatment effect in their sample size calculation, so power is often lower than they claim.  So if 50% of hypotheses are actually true, and you run 1000 trials with power 80%, and a 5% Type I error rate, you'll get something like this:
 
