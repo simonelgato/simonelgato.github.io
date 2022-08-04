@@ -1,3 +1,5 @@
+## Comments on “Negative trials in critical care: why most research is probably wrong”
+
 [This](https://www.sciencedirect.com/science/article/pii/S2213260018302790) paper, in which John Laffey and Brian Kavanagh discuss some of the issues in critical care trials, was published recently in Lancet Respiratory Diseases.  Their main point, which seems sound, is that one of the reasons for the large number of "negative" (urgh) trials in critical care is that conditions that trials seek to address, such as sepsis and acute respiratory distress, are syndromes with very heterogeneous populations, which result from a variety of mechanisms.  Hence any single treatment, which targets one physiological pathway, is unlikely to be beneficial to all patients.  That means that a trial recruiting the whole population will contain a lot of people who have no chance of benefitting from the intervention, which will reduce the number of people who have good outcomes and reduce the trial's ability to find a difference.
 
 What I wanted to comment on, though, was some of the statistical aspects.
