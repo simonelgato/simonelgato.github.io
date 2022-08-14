@@ -1,4 +1,4 @@
-
+## NEJM - definitely the last time
 
 I don't really want to write again and again about the New England Journal of Medicine and p-values for baseline characteristics, but just to continue the story from previous posts (here and here)...
 
