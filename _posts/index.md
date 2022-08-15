@@ -1,7 +1,4 @@
----
-title: "Editor's feedback"
-date: "2018-07-28"
----
+## Editor's feedback
 
 I was part of a team that conducted a clinical trial, and we submitted the final report to a well-known journal.  The intervention looked as though it had little effect on the nominated primary outcome, but had beneficial effects on important secondary outcomes. Here are some of the comments that came back from the journal's editor:
 
