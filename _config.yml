@@ -19,7 +19,8 @@ twitter_username: "sim0ngates"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+#theme: "minima"
+theme: "subtle"
 
 rss: rss
 
