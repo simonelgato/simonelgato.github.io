@@ -13,7 +13,7 @@ A new trial in the New England Journal tested ECMO (extracorporeal membrane oxyg
 
 The results for 60 day mortality was that 44 /124 patients (35%) in the ECMO group died and 57/125 (46%) in the control group (risk ratio 0.76; 95% confidence interval, 0.55 to 1.04; P=0.09.  The survival plot looked like this:
 
-![nejmoa1800385_f2](/../main/images/electrocat.png/nejmoa1800385_f2.jpeg)
+![nejmoa1800385_f2](/../main/images/nejmoa1800385_f2.jpeg)
 
 And the conclusion (from the abstract) said:
 
