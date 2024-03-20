@@ -10,7 +10,7 @@ If you read on to the Study Design section, you find that “ANHL12P1 was a rand
 
 What it is, is a mess.
 
-![lowe_CONSORT,jpg](/images/nejmoa1800385_f2.jpeg)
+![lowe_CONSORT.png](/images/lowe_CONSORT.png)
 
 As can be seen from the CONSORT-style flow chart, they randomised between addition of BV and addition of CZ (which may or may not be a sensible comparison; I’m wondering why they didn’t also randomise to standard care). This paper, though, only reports outcomes for the CZ arm.  That seems a very odd thing to do. They went to the effort of setting up a randomised trial, but then didn’t compare the randomised arms – which is the thing a randomised trial is designed to do. What’s going on?
 
