@@ -2,7 +2,8 @@
 title: "Clinical trial WTF"
 date: "2024-03-20"
 ---
-Some thoughts on a  recent clinical trial published in Journal of Clinical Oncology, entitled “Crizotinib in Combination With Chemotherapy for Pediatric Patients With ALK1 Anaplastic Large-Cell Lymphoma: The Results of Children’s Oncology Group Trial ANHL12P1.” The paper is here.
+Some thoughts on a  recent clinical trial published in Journal of Clinical Oncology, entitled “Crizotinib in Combination With Chemotherapy for Pediatric Patients With ALK1 Anaplastic Large-Cell Lymphoma: The Results of Children’s Oncology Group Trial ANHL12P1.”
+[The paper is here]((https://ascopubs.org/doi/full/10.1200/JCO.22.00272))
 
 So what this appears to be is a trial evaluating addition of crizotinib to chemotherapy for children with this type of lymphoma. Except… it isn’t.
 If you read on to the Study Design section, you find that “ANHL12P1 was a randomized phase II study with the primary aim to determine the toxicity and efficacy of the addition of brentuximab vedotin (BV; arm BV) or CZ [crizotinib] (arm CZ) to standard chemotherapy.” So that sounds like a three armed trial: standard chemotherapy versus standard + BV versus standard + CZ. But it’s not that either. 
