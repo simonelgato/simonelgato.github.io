@@ -1,3 +1,3 @@
 ## "The Muddy Waters of single-arm trials"
 
-placeholder text
+The use of Bayesian methods and nontraditional study designs to inform regulatory approval of new drugs or expanded indications of marketed drugs is an exciting and active area of research. Ultimately, we agree with Ruberg [118] that Bayesian and frequentist approaches can exist harmoniously in clinical trial design and inference such that frequentist operating characteristics can be shown to be met in a Bayesian design, but a Bayesian analysis and interpretation may be most appropriate and advantageous, especially in rare disease settings. The fundamental goal for all the innovative trial designs and Bayesian methods
