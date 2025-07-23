@@ -21,7 +21,7 @@ twitter_username: "sim0ngates"
 #########################################################################################
 #theme: jekyll-theme-minima
 
-theme: "minima"
+theme: "minimal"
 
 rss: rss
 
