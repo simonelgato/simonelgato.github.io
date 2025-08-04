@@ -23,6 +23,6 @@ A related issue with estimating efficacy from a single-arm trial is the apparent
 So those are my reasons for thinking that single-arm trials are often used inappropriately, over interpreted, and reach unjustified conclusions. I’m planning to give some concrete examples in future posts, so hopefully I’ll be able to post some more in the near future.
 
 References
-1.	Thorlund K, Dron L, Park JJH, Mills EJ. Synthetic and External Controls in Clinical Trials - A Primer for Researchers. Clin Epidemiol. 2020 May 8;12:457-467. doi: 10.2147/CLEP.S242097. PMID: 32440224; PMCID: PMC7218288.
-2.	Schmidli H et al. Beyond Randomized Clinical Trials: Use of External Controls. CLINICAL PHARMACOLOGY & THERAPEUTICS | VOLUME 107 NUMBER 4 | April 2020
-3.	Reflection paper on establishing efficacy based on single arm trials submitted as pivotal evidence in a marketing authorisation: Considerations on evidence from single-arm trials) https://www.ema.europa.eu/en/documents/scientific-guideline/reflection-paper-establishing-efficacy-based-single-arm-trials-submitted-pivotal-evidence-marketing-authorisation-application_en.pdf
+1. Thorlund K, Dron L, Park JJH, Mills EJ. Synthetic and External Controls in Clinical Trials - A Primer for Researchers. Clin Epidemiol. 2020 May 8;12:457-467.
+2. Schmidli H et al. Beyond Randomized Clinical Trials: Use of External Controls. Clinical Pharmacology and Theraeutics 2020; 107(4):
+3. EMA. Reflection paper on establishing efficacy based on single arm trials submitted as pivotal evidence in a marketing authorisation: Considerations on evidence from single-arm trials. https://www.ema.europa.eu/en/documents/scientific-guideline/reflection-paper-establishing-efficacy-based-single-arm-trials-submitted-pivotal-evidence-marketing-authorisation-application_en.pdf
