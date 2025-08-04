@@ -1,6 +1,6 @@
 ## The Muddy Waters of single-arm trials
 
-![muddy_waters](/images/muddy_waters.jpeg)
+![muddy_waters](/images/muddy_waters.jpg)
 
 Clinical trials in cancer tend to have some differences from other fields. One that really stood out to me,when I joined a cancer trials unit, was the number of single-arm trials that were conducted. They are rare in most other fields, but in cancer, very common. In a review that we’re currently conducting, in a specific subfield of cancer, over half of the trials that we have included so far are single-arm non-randomised studies. That is a lot! Given their prevalence in cancer, it seems important that all these single-arm studies are actually doing something sensible, and are providing useful information to inform and improve patient care.
 
