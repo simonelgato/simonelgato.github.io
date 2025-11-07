@@ -1,3 +1,5 @@
+## Single-arm non-inferiority? Does that make any sense?
+
 In the previous post I summarised some of the reasons I find many single-arm trials problematic, and why I think that they are often used inappropriately, and misinterpreted. 
 In this and subsequent (planned!) posts, I’m going to look at some examples, to give some concrete examples of what I think are questionable practices in recent trials.
 The first one (1) is a trial of reduced chemotherapy and radiotherapy for localised germinoma. The basic rationale is that there are several different chemotherapy regimens in clinical use for these patients. These are thought to have similar effects, and outcomes are generally good, with high survival rates. The question addressed by this trial was whether reducing the intensity of chemotherapy and radiotherapy would cause fewer harmful effects on neurocognition, without compromising survival.
